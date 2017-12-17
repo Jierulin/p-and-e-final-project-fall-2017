@@ -1,39 +1,40 @@
 NB: You might find useful the [sample proposal](https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
-# Your Project Title Here
+# Interactive bouncing 3D wall pattern
 
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+Interactive bouncing 3D wall pattern that is activated while people walk by it.
+
 
 ## Summary
 
-Here, write a paragraph or two describing what you built for your final project and what was challenging. 
-
-Include a discussion how it will be interactive or responsive to the environment.
+My ultimate goal of this pattern is to make it responsive with the environment, especially with people passing by. In short, it can transform, shrink vertically if people passing by or move in front of the pattern. One potential of this design is to create a wall that can breath based on the change of the environment.
 
 ## Component Parts
 
-From what pieces did you build your project?
-
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+plastic 
+arcrylic joints
+stepper motor
+battery
+motor shield
+distance senser
+!!!!!!!!!!!!!!!!!!!!!!!!1
 
 ## Challenges
-
-A brief discussion of what was hard, challenging, or unexpected about your project.
+1. make the structure movable
+2. make the joints strong enough without breaking
+3. connect motors to strings and make the string actually pulls the installation
 
 ## Timeline
 
-What did you do in each of the past five weeks?
-
-- Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
+- Week 1: Write proposal, design the structure
+- Week 2: Make adjustment to the model to make it movable
+- Week 3: Coding, connect stepper motor to the model, make ajustments to the structure and the codes
+- Week 4: Adding distance senser 
 - Week 5: Present!
 
 ## Completed Work
 
-Photos and videos of your completed final project!
-
+!!!!!!!!!!!!!1
 ## References and links
-
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+https://www.youtube.com/watch?v=QHdK19meZTk
+https://www.youtube.com/watch?v=ByJ3r39JNBA&t=4s
