@@ -17,7 +17,9 @@ stepper motor
 battery
 motor shield
 distance senser
-!!!!!!!!!!!!!!!!!!!!!!!!1
+https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/WeChat%20Image_20171218193146.png
+https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/diagram-print%2010X20.pdf
+https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/photo-layout-small.jpg
 
 ## Challenges
 1. make the structure movable
@@ -33,8 +35,9 @@ distance senser
 - Week 5: Present!
 
 ## Completed Work
+https://drive.google.com/open?id=1ohoHp8BJ3hw01JIAxqG_wg1G-AX3puBw
+https://drive.google.com/open?id=1HbLaGgLbWtIy3PKCfUbKDdZszPsSDkJN
 
-!!!!!!!!!!!!!1
 ## References and links
 https://www.youtube.com/watch?v=QHdK19meZTk
 https://www.youtube.com/watch?v=ByJ3r39JNBA&t=4s
