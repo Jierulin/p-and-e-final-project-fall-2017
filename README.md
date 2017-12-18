@@ -10,11 +10,11 @@ My ultimate goal of this pattern is to make it responsive with the environment, 
 
 ## Component Parts
 
-plastic 
-arcrylic joints
-stepper motor (OUTPUT)
-battery
-motor shield
+plastic / 
+arcrylic joints / 
+stepper motor (OUTPUT) / 
+battery / 
+motor shield / 
 distance senser (INPUT)
 >https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/WeChat%20Image_20171218193146.png
 >https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/diagram-print%2010X20.pdf
