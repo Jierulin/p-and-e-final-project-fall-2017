@@ -1,4 +1,3 @@
-NB: You might find useful the [sample proposal](https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
 # Interactive bouncing 3D wall pattern
 
@@ -13,19 +12,19 @@ My ultimate goal of this pattern is to make it responsive with the environment, 
 
 plastic 
 arcrylic joints
-stepper motor
+stepper motor (OUTPUT)
 battery
 motor shield
-distance senser
-https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/WeChat%20Image_20171218193146.png
-https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/diagram-print%2010X20.pdf
-https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/photo-layout-small.jpg
+distance senser (INPUT)
+>https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/WeChat%20Image_20171218193146.png
+>https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/diagram-print%2010X20.pdf
+>https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/photo-layout-small.jpg
 
 ## Challenges
 1. make the structure movable
 2. make the joints strong enough without breaking
 3. connect motors to strings and make the string actually pulls the installation
-Insight: Making real physical model instead of foam board prototype adds a lot of extra work. Making model that have movement or allow certain movement also doubles the work. Working with electronic need to also deal with materials, designing the components, and physical problems beside coding to make the motors work.
+>Insight: Making real physical model instead of foam board prototype adds a lot of extra work. Making model that have movement or allow certain movement also doubles the work. Working with electronic need to also deal with materials, designing the components, and physical problems beside coding to make the motors work.
 
 
 ## Timeline
