@@ -36,9 +36,9 @@ distance senser (INPUT)
 - Week 5: Present!
 
 ## Completed Work
-https://drive.google.com/open?id=1ohoHp8BJ3hw01JIAxqG_wg1G-AX3puBw
-https://drive.google.com/open?id=1HbLaGgLbWtIy3PKCfUbKDdZszPsSDkJN
+>https://drive.google.com/open?id=1ohoHp8BJ3hw01JIAxqG_wg1G-AX3puBw
+>https://drive.google.com/open?id=1HbLaGgLbWtIy3PKCfUbKDdZszPsSDkJN
 
 ## References and links
-https://www.youtube.com/watch?v=QHdK19meZTk
-https://www.youtube.com/watch?v=ByJ3r39JNBA&t=4s
+>https://www.youtube.com/watch?v=QHdK19meZTk
+>https://www.youtube.com/watch?v=ByJ3r39JNBA&t=4s
