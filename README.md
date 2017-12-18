@@ -25,6 +25,8 @@ https://github.com/Jierulin/p-and-e-final-project-fall-2017/blob/master/photo-la
 1. make the structure movable
 2. make the joints strong enough without breaking
 3. connect motors to strings and make the string actually pulls the installation
+Insight: Making real physical model instead of foam board prototype adds a lot of extra work. Making model that have movement or allow certain movement also doubles the work. Working with electronic need to also deal with materials, designing the components, and physical problems beside coding to make the motors work.
+
 
 ## Timeline
 
